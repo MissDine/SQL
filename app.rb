@@ -7,4 +7,7 @@
 
 # Primary & foreign key
 # primary-a unique key eg usernames, passwords should be unique
-# foreign-
+# foreign-a unique key that links another thing
+
+# SQL OPERATIONS
+# Create table -Create row Insert,Select,Join,Update,Delete,Count,Add,Sum,Avg, Alter table,drop table
