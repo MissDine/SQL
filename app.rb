@@ -31,3 +31,4 @@
 
 # .header on
 # .mode column
+# DISTINCT- to select all the unique/unreeated stuff
