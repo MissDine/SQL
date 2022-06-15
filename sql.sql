@@ -1,17 +1,16 @@
--- CREATE TABLE USERS(username NOT NULL, password TEXT NOT NULL PRIMARY KEY, email NOT NULL);
+-- CREATING A TABLE
+-- CREATE TABLE budget(id INTERGER PRIMARY KEY,name TEXT, figure INTERGER)
+-- INSERT INTO budget(name, figure)
+-- VALUES ("Savings", 2000);
+-- ALTER  TABLE budget ADD COLUMN balance TEXT;
+-- ALTER TABLE budget ADD ROW Balance TEXT;
+-- UPDATE budget SET figure = 90000
+-- WHERE name = "Salary";
+-- DELETE FROM budget
+-- WHERE figure = 2000;
+-- SELECT * FROM budget;
 
--- INSERT INTO users(username, password, email)
--- VALUES ("Norbert", "maosa", "norbert@gmail.com");
--- 
-
--- Updating
--- UPDATE users SET email = "enid12@gmail.com"
--- WHERE username LIKE "e%d";
-
--- DELETE
--- DELETE FROM users
--- WHERE username LIKE "e%d";
-
-SELECT * FROM users
+-- SELECT name FROM budget
+-- WHERE figure LIKE "5%";
 
 
